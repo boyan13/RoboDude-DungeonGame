@@ -1,0 +1,15 @@
+dimensions=12x16
+color=40, 38, 45
+player=1, 1
+BBBBBBBBBBBBBBBB
+B  B        P  B
+B  BBBB  BBBBB B
+B     E  B  A  B
+B BBBBB  B  BBBB
+B E      B  BBBB
+BBB BBBBBB     B
+B      P    B  B
+B   BBBBBBBBBEBB
+B   B    BBBB  B
+B     BB  E    G
+BBBBBBBBBBBBBBBB
