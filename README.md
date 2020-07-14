@@ -7,6 +7,7 @@ In RoboDude, you navigate a maze, collect supplies and fight enemies, with the f
 With mechanics such as critical strike chance, possibility to *miss* an attack and critical strike meter (banking a critical attack), I've attempted to make gameplay non-linear.
 
 Navigation:
+
 ![maze](./media/readme%20imgs/maze.png)
 
 #
@@ -24,6 +25,7 @@ Legend:
 #
 
 Entering conflict:
+
 ![battle](./media/readme%20imgs/prepare.png)
 
 ![battle](./media/readme%20imgs/battle.png)
