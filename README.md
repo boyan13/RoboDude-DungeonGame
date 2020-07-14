@@ -2,7 +2,7 @@
 
 RoboDude is a final project I wrote for university. It was my first enconter with the process of developing a 2D game.
 
-In RoboDude, you navigate a maze, collect supplies and fight enemies, with the final objective of reaching *the gate*. Gameplay is split in 2 phases: **Navigation** and **Combat**. In the former, you have full view of the maze and everything within it, and are able to move around. In the latter, you're prevented from navigating the maze and are given options to fight the enemy you've encountered a turn-based manner.
+In RoboDude, you navigate a maze, collect supplies and fight enemies, with the final objective of reaching *the gate*. Gameplay is split in 2 phases: **Navigation** and **Combat**. In the former, you have full view of the maze and everything within it, and are able to move around. In the latter, you're prevented from navigating the maze and are given options to fight the enemy you've encountered in a turn-based manner.
 
 With mechanics such as critical strike chance, possibility to *miss* an attack and critical strike meter (banking a critical attack), I've attempted to make gameplay non-linear.
 
