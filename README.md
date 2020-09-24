@@ -6,10 +6,10 @@ In RoboDude, you navigate a maze, collect supplies and fight enemies, with the f
 
 With mechanics such as critical strike chance, possibility to *miss* an attack and critical strike meter (banking a critical attack), I've attempted to make gameplay non-linear.
 
-Prerequisites:
+**Prerequisites**:
 Since it was not a requirement and I was running low on time, the game needs 1920x1080 screen for the combat sections and cannot be resized to fit smaller screens 😥.
 
-Navigation:
+**Navigation**:
 
 ![maze](./media/readme%20imgs/maze.png)
 
@@ -27,7 +27,7 @@ Legend:
 
 #
 
-Entering conflict:
+**Entering conflict**:
 
 ![battle](./media/readme%20imgs/prepare.png)
 
