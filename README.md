@@ -35,6 +35,8 @@ Legend:
 
 By default, combat begins with *QuickMode* disabled. The game gives you a detailed description and stat listing for every attack inputted by the player, and asks for confirmation before executing it. In *QuickMode* this process is entirely skipped.
 
+Enemies have randomized stats that the player can view by *inspecting* them.
+
 ![confirm](./media/readme%20imgs/confirm.png)
 
 Since combat is turn-based, the enemy will always strike back after a player attacks.
